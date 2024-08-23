@@ -1,0 +1,10 @@
+{
+  "name": "n0va-desktop-ja-patch",
+  "version": "1.0.1",
+  "description": "This patch replaces some of the English resources in N0va Desktop with Japanese.",
+  "scripts": {
+    "patch": "powershell -NoProfile -ExecutionPolicy Unrestricted ./patch.ps1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
