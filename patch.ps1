@@ -20,7 +20,7 @@ if (Test-Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\人工�
     }
     else {
         Copy-Item -Path $srcFile -Destination $destFile
-        echo "オリジナルの en-us.qmファイルを en-us-original.qm の名前で退避しましたr`n" 
+        echo "オリジナルの en-us.qmファイルを en-us-original.qm の名前で退避しました`r`n" 
     }
     Copy-Item -Path $destFile -Destination $backupFile
     $Input = Read-Host "リソースファイルを置き換えます。`r`n変更する場合は Enterキー、変更しない場合は「n」を入力後 Enterキーを押してください`r`n"

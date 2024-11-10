@@ -5,7 +5,7 @@ Copyright © 2021 miHoYo<br>
 <br>
 <br>
 N0va Desktop is a desktop accessory for the artificial character Lumi for 64-bit Windows provided by miHoYo, as well as a wallpaper service application for games provided by miHoYo. <br>
-Wallpapers are provided in Full HD (1920x1080) and WQHD (2560x1440) sizes. **4K (3840x2160) size is not provided**.
+Wallpapers are provided in Full HD (1920x1080) and WQHD (2560x1440) sizes. **4K (3840x2160) size is available for "Honkai impact 3" in some wallpapers**.
 
 If you just want to install N0va Desktop, see below.<br>
 [How to install N0va Desktop](#how-to-install-n0va-desktop)
@@ -15,7 +15,7 @@ This site is only available in Japanese.
 <br><br>
 N0va DesktopはmiHoYo社が提供する64bit Windows向けの人工キャラクターLumiのデスクトップアクセサリならびに、miHoYoが提供しているゲームの壁紙サービスアプリケーションです。
 
-壁紙はフルHD(1920x1080)とWQHD(2560x1440)サイズが提供されています。**4K(3840x2160)サイズは提供されていません**。
+壁紙はフルHD(1920x1080)とWQHD(2560x1440)サイズが提供されています。**4K(3840x2160)サイズは 崩壊3rd の一部壁紙で提供されています。**。
 
 
 本パッチは、N0va Desktopの**英語のリソース**の一部を日本語に置き換えるものです。このため言語設定は「English」となるのでご注意ください。<br>
@@ -26,10 +26,11 @@ N0va DesktopはmiHoYo社が提供する64bit Windows向けの人工キャラク�
 公式ページでも推奨環境は書いてありますがCPUの世代が書いてなかったりGPUスペックにピンと来ないので補足。
 
 - Windows 7以降の64bit環境(Windows10を推奨、Windows11では一部制限あり)
-- 最低でも第三世代Intel Core i3以上の4コア 64bit CPU
+- 最低でも第三世代Intel Core i3の4コア或いは2コア2ハイパースレッディング以上の性能がある AMD 64bit CPU
 - RAM 4GB以上(8GB以上を推奨)
 - なるべく大きなストレージ(SSDを推奨)
 - 最低でもGeForce GT 740 1GBRAM 程度のGPU搭載を推奨
+- Windowsのスライドショー壁紙機能とは排他使用を強く推奨
 
 ## N0va Desktopのインストール方法
 
@@ -43,8 +44,7 @@ N0va DesktopはmiHoYo社が提供する64bit Windows向けの人工キャラク�
 2. 「PC版 下载(PC版ダウンロード)」ボタンをクリックしてください。<br>
 3. もし以前の N0va Desktop をインストール済みの場合、事前にアンインストールしておいてください。<br>
   【注意】 アンインストールしなくても正常にインストールは可能ですが、以前の壁紙は引き継がれないうえにプレイリストは削除されず、いろいろ面倒なことになります。<br>
-  壁紙はあらためて新規にダウンロードすることになりますが一部前回に収納されていたものがダウンロード不可になっている壁紙が存在します（例えば原神では水仙十字結社の	
-ルネ・ド・ペトリコール）。
+  壁紙はあらためて新規にダウンロードすることになりますが一部前回に収納されていたものがダウンロード不可になっている壁紙が存在します。
 4. ダウンロードした ``N0vaDesktop_2.2.1.3_mihoyo.exe``を実行してください。<br>
 　上記インストーラーとの違いはデジタル証明書が付加されているためWindowsによるダウンロード確認ダイアログは表示されず、安心してインストール処理が行えます。<br>
   **なお、このインストーラーは簡体中国語表示です**。<br>
@@ -124,6 +124,7 @@ Windowsのタスクトレイを展開し、「N0va Desktop」アイコン上で�
 
 ## How to install N0va Desktop
 
+
 * Download link here<br>
   https://n0va.mihoyo.com/#/
 
@@ -155,6 +156,6 @@ The difference from the above installer is that it contains a digital certificat
 
 ## [Reference] How to exit N0va Desktop
 
-Open the Windows task tray, right-click on the "N0va Desktop" icon and select "Exit" from the menu that appears (if the resource is still in English, select "Exit"). If it is in Simplified Chinese, right-click on the "人工桌面" icon and select "退出" from the menu that appears.
+Open the Windows task tray, right-click on the "N0va Desktop" icon and select "Exit" from the menu that appears. If it is in Simplified Chinese, right-click on the "人工桌面" icon and select "退出" from the menu that appears.
 
   ![normal](./asset/images/WS000026.JPG)<br>
