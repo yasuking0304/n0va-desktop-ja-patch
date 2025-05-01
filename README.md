@@ -102,7 +102,7 @@ Windowsのタスクトレイを展開し、「N0va Desktop」アイコン上で�
   https://github.com/thurask/Qt-Linguist
 
 1. ブラウザを開いて上記URLにアクセスしてください
-2. GitHubのページの 右側の Release 欄から Latestをクリックして、 最新の linguist_6.7.x.zip をダウンロードしてください。
+2. GitHubのページの 右側の Release 欄から Latestをクリックして、 最新の linguist_6.8.x.zip をダウンロードしてください。
 
 3. zipファイルを解凍してください。
 
