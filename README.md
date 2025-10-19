@@ -37,7 +37,7 @@ N0va DesktopはmiHoYo社が提供する64bit Windows向けの人工キャラク�
 * ダウンロード先はこちら<br>
   https://n0va.mihoyo.com/#/
 
-  【注意】 2024年8月現在、steam版 および 英語版 https://mihoyodesktop.mihoyo.com/#/ ではダウンロード出来なくなっています。またこちらで事前にダウンロードした ``n0va-desktop-2-2-1-3.exe`` にはデジタル証明書が付加されておらず、インストールしても**2024年2月以降に提供された壁紙はダウンロードリストに追加されません**。
+  【注意】 2024年8月現在、steam版 および 英語版 https://mihoyodesktop.mihoyo.com/#/ ではダウンロード出来なくなっています。またこちらで事前にダウンロードした ``n0va-desktop-2.2.1.3.exe`` にはデジタル証明書が付加されておらず、インストールしても**2024年2月以降に提供された壁紙はダウンロードリストに追加されません**。
 
 1. ブラウザを開いて上記URLにアクセスしてください。<br>
 ![normal](./asset/images/WS000024.JPG)
@@ -88,7 +88,7 @@ N0va DesktopはmiHoYo社が提供する64bit Windows向けの人工キャラク�
 
 ## 【参考】N0va Desktopの終了方法
 
-Windowsのタスクトレイを展開し、「N0va Desktop」アイコン上でマウスの右クリックで表示されるメニューから「終了」 (リソースが英語のままであれば「Exit」 )を選択してください。簡体中文であれば「人工桌面」アイコン上でマウスの右クリックで表示されるメニューから「退出」を選択してください。
+Windowsのタスクトレイを展開し、「N0va Desktop」アイコン上でマウスの右クリックで表示されるメニューから「終了」 (リソースが英語のままであれば「Exit」)を選択してください。簡体中文であれば「人工桌面」アイコン上でマウスの右クリックで表示されるメニューから「退出」を選択してください。
 
   ![normal](./asset/images/WS000026.JPG)<br>
 
@@ -129,7 +129,7 @@ Windowsのタスクトレイを展開し、「N0va Desktop」アイコン上で�
   https://n0va.mihoyo.com/#/
 
   **[Note]**<br>
-   As of August 2024, the Steam version and English version https://mihoyodesktop.mihoyo.com/#/ are no longer available for download. Also, the ``n0va-desktop-2-2-1-3.exe`` pre-downloaded here does not have a digital certificate attached, so even if you install it, **wallpapers provided after February 2024 will not be added to the download list**.
+   As of August 2024, the Steam version and English version https://mihoyodesktop.mihoyo.com/#/ are no longer available for download. Also, the ``n0va-desktop-2.2.1.3.exe`` pre-downloaded here does not have a digital certificate attached, so even if you install it, **wallpapers provided after February 2024 will not be added to the download list**.
 
 1. Open your browser and access the above URL. <br>
 ![normal](./asset/images/WS000024.JPG)
@@ -139,7 +139,7 @@ Windowsのタスクトレイを展開し、「N0va Desktop」アイコン上で�
    You can install it normally without uninstalling, but your previous wallpapers will not be carried over and your playlist will not be deleted, which can be troublesome. <br>
 You will have to download the wallpapers anew, but some of the wallpapers stored in the previous version are no longer available for download (for example, in Genshin Impact, it is Rene de Petrichor of the Narcissus Cross).
 
-4. Run the downloaded ``N0vaDesktop_2.2.1.3_mihoyo.exe``. <br>
+4. Run the downloaded ``N0vaDesktop_2.2.1.4_mihoyo.exe``. <br>
 The difference from the above installer is that it contains a digital certificate, so the download confirmation dialog box from Windows is not displayed, allowing you to install with confidence. <br>
 **Please note that this installer is displayed in Simplified Chinese**.<br>
   ![normal](./asset/images/WS000027.JPG)<br>
